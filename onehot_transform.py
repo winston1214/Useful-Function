@@ -1,3 +1,6 @@
+# @Author YoungMinKim
+# baekjoon
+
 import pandas as pd
 from sklearn.preprocessing import OneHotEncoder # onehotencoding dataframe 변환 함수
 def ohe_trans(data,col):

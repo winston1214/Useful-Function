@@ -1,3 +1,6 @@
+# @Author YoungMinKim
+# baekjoon
+
 import datetime
 def convert_timedelta(duration):
     days, seconds = duration.days, duration.seconds

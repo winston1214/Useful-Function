@@ -1,6 +1,4 @@
 # @Author YoungMinKim
-# baekjoon
-
 import matplotlib.pyplot as plt
 def show_height(ax,fontsize=10):
     for p in ax.patches:

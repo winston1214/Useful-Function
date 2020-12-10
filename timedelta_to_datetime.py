@@ -1,5 +1,4 @@
 # @Author YoungMinKim
-# baekjoon
 
 import datetime
 def convert_timedelta(duration):

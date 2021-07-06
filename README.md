@@ -5,7 +5,7 @@ Useful Function in python
 
 - <a href='https://github.com/winston1214/Useful-Function/blob/master/Korean_in_plt.py'>Korean in plt</a> : Function that makes Korean available for matplotlib
 - <a href='https://github.com/winston1214/Useful-Function/blob/master/plt_height.py'>plt_height</a> : Function that shows the height of a bar graph
-
+- <a href='https://github.com/winston1214/Useful-Function/blob/master/show_img.py'>show_img</a> : Function representing images imported from opencv as matplotlib
 
 ## Data Preprocessing
 

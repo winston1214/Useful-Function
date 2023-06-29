@@ -1,6 +1,7 @@
 import random
 import torch.backends.cudnn as cudnn
 import numpy as np
+import torch
 
 def random_seed(seed_num):
     torch.manual_seed(seed_num)
